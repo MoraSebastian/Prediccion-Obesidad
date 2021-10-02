@@ -1,0 +1,9 @@
+Se requieren las siguientes librerías:
+
+pandas
+scikit-learn
+graphviz
+matplotlib
+numpy
+joblib
+tkinter
